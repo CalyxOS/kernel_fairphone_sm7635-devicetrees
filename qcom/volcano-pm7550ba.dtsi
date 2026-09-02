@@ -47,7 +47,7 @@
 };
 
 &pm7550ba_vib {
-	status = "okay";
+	status = "disabled";
 };
 
 &pm7550ba_amoled {
