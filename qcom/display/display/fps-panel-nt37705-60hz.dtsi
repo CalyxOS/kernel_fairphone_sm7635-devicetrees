@@ -68,7 +68,6 @@
 			qcom,mdss-mdp-transfer-time-us = <7300>;
 			qcom,mdss-dsi-panel-clockrate= <1450000000>;
 		};
-		/delete-node/ timing@2;
 	};
 };
 
